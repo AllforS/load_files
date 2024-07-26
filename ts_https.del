@@ -1,0 +1,5 @@
+在VS Code的设置中，打开settings.json文件，添加以下内容：
+
+"http.proxy": "http://proxy-server:port",
+"https.proxy": "http://proxy-server:port",
+"http.proxyStrictSSL": false
